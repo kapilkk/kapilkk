@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there  👋, I'm Fullstack developer.
+
+With 6+ years of experience building web applications. Skilled in frontend (Angular, React) and backend (Node.js, Express, C#) with databases (MySQL, Firebase) and .NET.
 
 <!--
 **kapilkk/kapilkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
