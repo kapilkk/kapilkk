@@ -1,4 +1,4 @@
-## Hi there  👋, I'm Fullstack developer.
+Hi there  👋, I'm Fullstack developer.
 
 With 6+ years of experience building web applications. Skilled in frontend (Angular, React) and backend (Node.js, Express, C#) with databases (MySQL, Firebase) and .NET.
 
